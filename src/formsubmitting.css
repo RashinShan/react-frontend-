@@ -1,0 +1,21 @@
+.form {
+color: rgb(255, 119, 0);
+font-family: 'Courier New', Courier, monospace;
+font-weight: 300;
+
+}
+.submitbtn{
+    background-color: #4666e7; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+ 
+}
+
+.formelement{
+    width: 100%;
+}
